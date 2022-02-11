@@ -1,2 +1,2 @@
 # Practiced-Programs
-In this repo there are programs/questions I solved :)
+In this repo there are programs/questions I solved/praciced:)
