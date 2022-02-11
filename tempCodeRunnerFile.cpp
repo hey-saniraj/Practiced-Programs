@@ -1,0 +1,2 @@
+
+      *maX=number[i];
